@@ -382,6 +382,7 @@ body.dark{
     text-align: center;
     border-radius: var(--border-radius);
     transition: var(--transition);
+    cursor: pointer;
     
 }
 
