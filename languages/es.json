@@ -1,0 +1,59 @@
+{
+    "profile": {
+        "rol": "Diseñador Grafico & Programador",
+        "description": "Recién egresado de la carrera TSU. Tecnologías de la Información Área Desarrollo Software Multiplataforma y con una carrera concluida en TSU. Diseño Digital Área Animación. <br /> Mi propósito es usar las tecnologías de la información para plasmar mis conocimientos en diseño en un entorno donde pueda ser vistas por gente interesada en el ámbito y darme a conocer en el área de diseño y programación."
+    },
+    "experience": {
+        "first-job-title": "CallCenter",
+        "first-job-dates": "2018 - 2019",
+        "first-description": "Encuestas Telefónicas y Gestión de Datos",
+        "second-job-title": "Practicas Profesionales",
+        "second-job-dates": "2019 - 2019",
+        "second-description": "Programador y Gestión de Base de datos en el Instituto de Educación de Aguascalientes.",
+        "third-job-title": "Estadias",
+        "third-job-dates": "2021 - 2021",
+        "third-description": "Centro de Realidad Virtual Dedalum. Universidad Tecnológica el Retoño.",
+        "fourth-job-title": "Diseño en Redes Sociales",
+        "fourth-job-dates": "2022 - 2022",
+        "fourth-description": "Creación de Post para Instragram CINK.",
+        "last-job-title": "Estadias",
+        "last-job-dates": "2023 - 2023",
+        "last-description": "Triulzi DreamsDev. Universidad Tecnológica el Retoño."
+    },
+    "projects": {
+        "01-project-title":"Portafolio de evidencia en Web",
+        "01-project-description":"Crear un portafolio usando la programación para publicar y divulgar la experiencia que tengo en el área de pogramación y diseño.",
+        "02-project-title":"Portafolio de Ilustraciones Artstation",
+        "02-project-description":"Recopilación de trabajos e ilustraciones. El total de los trabajos se encuentran en Facebook como HaruCatOff.",
+        "03-project-title":"Ilustraciones para CINK",
+        "03-project-description":"Ilustraciones y diseños que se crearon para la clinica kinesiologa pelvica CINK.",
+        "04-project-title":"Shooter Master",
+        "04-project-description":"Un proyecto simple en Unity donde se implementa la animación, la realidad virtual y la interacción entre el jugador y el ambiente.",
+        "05-project-title":"Video Design",
+        "05-project-description":"Una recopilatorio de todos las ediciones de video y creación de material digital para streaming y video.",
+        "06-project-title":"Murana - Triulzi DreamsDev",
+        "06-project-description":"Murana es un videojuego de realidad virtual. Mi trabajo fue codificar el movimiento del jugador dentro del escenario, además de crear herramientas y funciones basicas entre la interación del jugador con el entorno. Nota. El codigo, por cuestiones de contrato, no puede ser mostrado al publico.",
+        "07-project-title":"Recorrido Virtual - Dedalum",
+        "07-project-description":"En este projecto, participé en la creación de modelos 3D y en la codificación de un videojuego para el Centro de Realidad Virtual de la Universidad Tecnológica el Retoño.",
+        "08-project-title":"Figma Choco Roles",
+        "08-project-description":"Se creo un prototipo basico usando Figma. El cual se habla sobre las ventajas y desventajas de las tecnologías.",
+        "09-project-title":"Rest Service Client",
+        "09-project-description":"Se creo un prototipo basico de un Rest el cual permite al cliente o usuario, obtener y crear información en manera de lista.",
+        "10-project-title":"Rest API with Database",
+        "10-project-description":"Se creo un prototipo basico de un Rest API el cual permite al cliente o usuario, obtener y crear información la cual se almacenara en una base de datos (MongoDB)."
+    },
+    "skills":{
+        "01-skill-title": "Programación",
+        "02-skill-title": "Diseño Digital",
+        "03-skill-title": "Idioma",
+        "years-title": "Años de experiencia"
+    },
+    "hobbies":{
+        "01-hobbie-title": "Dibujar",
+        "01-hobbie-description": "Me gusta crear personajes, además de entregarles una historia a la cual compartir. Creo sus Characters Design e ilustro diferentes escenarios con ellos para practicar su anatomía, su forma de ser y pulir poco a poco su diseño.",
+        "02-hobbie-title": "Creador de contenido",
+        "02-hobbie-description": "Tengo varios canales de Youtube cuyo objetivo es crear contenido relacionado a los videojuegos y un projecto personal con base a los personajes creados para mis historias.",
+        "03-hobbie-title": "Sreamer",
+        "03-hobbie-description": "Hago directos en las noches, hago diferentes dinamicas además de jugar con amigos y otros creadores de contenidos en la plataforma Twitch."
+    }
+}

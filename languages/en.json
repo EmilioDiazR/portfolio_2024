@@ -1,0 +1,59 @@
+{
+    "profile": {
+        "rol": "Digital Desing & Programming",
+        "description": "Graduate it of TSU in Digital Design Animation Area and TSU in Information Technologies Multiplatform Software Development Area. <br /> My propose is to use the information technologies to plasm what I know about  digital design into the environment where it can be visualized by users which are interested to this root and let me be known in design and programming area."
+    },
+    "experience": {
+        "first-job-title": "CallCenter",
+        "first-job-dates": "2018 - 2019",
+        "first-description": "Telephone Surveys and Data management",
+        "second-job-title": "Profesinals Practicum",
+        "second-job-dates": "2019 - 2019",
+        "second-description": "Programming and Data management in Instituto de Educación de Aguascalientes.",
+        "third-job-title": "Intership",
+        "third-job-dates": "2021 - 2021",
+        "third-description": "Virtual Realtity Center Dedalum. Universidad Tecnológica el Retoño.",
+        "fourth-job-title": "Diseño en Redes Sociales",
+        "fourth-job-dates": "2022 - 2022",
+        "fourth-description": "Post management for Instragram to CINK.",
+        "last-job-title": "Intership",
+        "last-job-dates": "2023 - 2023",
+        "last-description": "Triulzi DreamsDev. Universidad Tecnológica el Retoño."
+    },
+    "projects": {
+        "01-project-title":"Web Portfolio of Evidence",
+        "01-project-description":"Portfolio created with programming to publish and disseminate the experience I have in the area of programming and design.",
+        "02-project-title":"Artstation Portfolio ",
+        "02-project-description":"Compilation of art work. The total of illustrations are in Facebook by HaruCatOff.",
+        "03-project-title":"Illustrations para CINK",
+        "03-project-description":"Illustrations design, created for the pelvic kinesiology clinic CINK.",
+        "04-project-title":"Shooter Master",
+        "04-project-description":"Simple Unity Project which has animations, virtual reality and interactions between player and environment.",
+        "05-project-title":"Video Design",
+        "05-project-description":"Compilation of all video design and digital content to use on streaming and video edition.",
+        "06-project-title":"Murana - Triulzi DreamsDev",
+        "06-project-description":"Murana It's a virtual reality game. My work was to codify the player movement into the world, create tools and methods to match the interaction between the player and the environment. NOTE. The code, by contract clauses,can't be post it. ",
+        "07-project-title":"Virtual Tour - Dedalum",
+        "07-project-description":"On this project, I worked to create 3d models and codify a few parts to create a videogame for the Virtual Reality Center in the Universidad Tecnológica el Retoño.",
+        "08-project-title":"Figma Choco Roles",
+        "08-project-description":"It's a basic prototype on figma. In this project is about the advantages and disadvantages to use the technologies.",
+        "09-project-title":"Rest Service Client",
+        "09-project-description":"On this project, I codify a Rest which allows  the client or user to get and post taks.",
+        "10-project-title":"Rest API with Database",
+        "10-project-description":"On this project, I codify  a Rest API which allows  the client or user to get, set, post and push the information which is stored into a database (MongoDB)."
+    },
+    "skills":{
+        "01-skill-title": "Programming",
+        "02-skill-title": "Digital Design",
+        "03-skill-title": "Lenguage",
+        "years-title": "Experience by years"
+    },
+    "hobbies":{
+        "01-hobbie-title": "Draw",
+        "01-hobbie-description": "I love create characters to give them a story which I want to share. I made their characters design and draw diferents scenarios to practice the anatomy, their personality and little by little get their final design.",
+        "02-hobbie-title": "Content creator",
+        "02-hobbie-description": "I have diferents Youtube channels which the main objetive is to create content about videogames and my characters.",
+        "03-hobbie-title": "Sreamer",
+        "03-hobbie-description": "I made streaming at night about diferents  dynamics and gameplays with my friends and other streamers on Twitch."
+    }
+}
