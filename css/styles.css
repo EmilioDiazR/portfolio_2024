@@ -83,7 +83,8 @@ body.dark{
 }
 
 .flags__item{
-    width: 30px;
+    width: 35px;
+    cursor: pointer;
 }
 
 .flags__img{
